@@ -1,2 +1,5 @@
 # Coin-Detect-Labeling-and-Coloring
-Detect coin and labeling and coloring
+Detect coins in the image, label them alphabetically, and color them.
+
+1. Gaussian Blur
+2. 
